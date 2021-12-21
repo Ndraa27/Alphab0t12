@@ -6,7 +6,7 @@
 	"anti_delete" : false,
 	"anticall": true,
 	"auto_welcome_msg": true,
-	"auto_leave_msg": true,
+	"auto_leave_msg": false,
 	"prefix": ".",
 	"language":"ind",
 	"ownerNumber": "6288211784515",
@@ -14,7 +14,7 @@
 	"cr": "@Indralsmna27",
 	"ownername": "Indralsmna27",
 	"botname":"Ndraa-BOT",
-	"thumb":"thumbnail_1.jpg",
-	"fakethumb":"thumbnail_1.jpg", 
+	"thumb":"Bang.jpg",
+	"fakethumb":"Bang.jpg", 
 	"fake": " 「  Ndraa-BOT  」\nCreated By @Indralsmna27"
 }
