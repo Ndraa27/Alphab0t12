@@ -20,14 +20,13 @@ return`╭──「 📖  *PRICE JADIBOT*」
 ├─ 「 👨‍💻  *RUN ON* 」
 │
 │ ⤷ *Heroku [Diutamakan]*
-│ ⤷ *Railway* 
 │
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi 0887435047326_
+│ ⤷ _Minat? Hubungi 088211784515_
 │
 ╰──「 *Thank's* 」
 `
 }
-exports.jadibut = jadibut
+exports.jadibot = jadibot
